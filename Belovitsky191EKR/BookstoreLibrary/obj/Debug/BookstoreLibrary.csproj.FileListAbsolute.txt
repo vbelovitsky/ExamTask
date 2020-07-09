@@ -1,0 +1,6 @@
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\BookstoreLibrary\bin\Debug\BookstoreLibrary.dll
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\BookstoreLibrary\bin\Debug\BookstoreLibrary.pdb
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\BookstoreLibrary\obj\Debug\BookstoreLibrary.csprojAssemblyReference.cache
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\BookstoreLibrary\obj\Debug\BookstoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\BookstoreLibrary\obj\Debug\BookstoreLibrary.dll
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\BookstoreLibrary\obj\Debug\BookstoreLibrary.pdb

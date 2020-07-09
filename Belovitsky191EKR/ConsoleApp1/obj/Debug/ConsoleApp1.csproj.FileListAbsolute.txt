@@ -1,0 +1,10 @@
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\bin\Debug\BookstoreLibrary.dll
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\bin\Debug\BookstoreLibrary.pdb
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\A\Education\_FCS\Программирование\КР\Belovitsky191EKR\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
